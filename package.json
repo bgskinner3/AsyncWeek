@@ -1,0 +1,19 @@
+{
+  "name": "asyncweek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgskinner3/AsyncWeek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgskinner3/AsyncWeek/issues"
+  },
+  "homepage": "https://github.com/bgskinner3/AsyncWeek#readme"
+}
